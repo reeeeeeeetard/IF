@@ -1,5 +1,5 @@
 if IY_LOADED and not _G.IY_DEBUG == true then
-    -- error("are you retard or something? infinite fucker is already running", 0)
+    -- error("are you retarded or something? infinite fucker is already running", 0)
     return
 end
 
